@@ -16,7 +16,6 @@ This is a MERN (MongoDB, Express.js, React, Node.js) application for a Learning 
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 - [Support](#support)
-- [Troubleshooting](#troubleshooting)
 
 ## Prerequisites
 
@@ -117,11 +116,5 @@ Feel free to contribute to this project by following the [contributing guideline
 
 ## Support
 
-For support and inquiries, please contact Geetanjali Chawla at geetanjalichawla1919@gmail.com.
+For support and inquiries, please contact Geetanjali Chawla at geetanjalichawla1919@gmail.com
 
-## Troubleshooting
-
-If you encounter any issues, please refer to the [troubleshooting guide](TROUBLESHOOTING.md) for solutions to common problems.
-```
-
-Your email address has been updated in the README. Feel free to customize other details as needed."# lms-auth-simple" 
