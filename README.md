@@ -1,5 +1,5 @@
 
-```markdown
+
 # LMS Authentication System
 
 This is a MERN (MongoDB, Express.js, React, Node.js) application for a Learning Management System (LMS) with a simple authentication system. It consists of separate frontend and backend folders.
