@@ -45,15 +45,7 @@ Before you begin, make sure you have the following software installed on your de
    npm install
    ```
 
-4. **Create a `.env` file in the `frontend` folder:**
-
-   ```env
-   REACT_APP_API_URL=http://localhost:4000
-   ```
-
-   This configuration assumes your backend will run on `http://localhost:4000`.
-
-5. **Start the frontend development server:**
+4. **Start the frontend development server:**
 
    ```bash
    npm start
@@ -61,28 +53,20 @@ Before you begin, make sure you have the following software installed on your de
 
    The React development server will start, and your frontend will be accessible at `http://localhost:3000`.
 
-6. **Open a new terminal window, navigate to the project root, and then enter the `backend` folder:**
+5. **Open a new terminal window, navigate to the project root, and then enter the `backend` folder:**
 
    ```bash
    cd ../backend
    ```
 
-7. **Install the backend dependencies:**
+6. **Install the backend dependencies:**
 
    ```bash
    npm install
    ```
 
-8. **Create a `.env` file in the `backend` folder:**
 
-   ```env
-   PORT=4000
-   MONGODB_URI=<your_mongodb_uri>
-   ```
-
-   Replace `<your_mongodb_uri>` with your MongoDB connection URI.
-
-9. **Start the backend server:**
+7. **Start the backend server:**
 
    ```bash
    npm start
@@ -90,7 +74,7 @@ Before you begin, make sure you have the following software installed on your de
 
    The backend server will run on `http://localhost:4000`.
 
-10. **Your LMS Authentication System is now up and running with the frontend and backend servers.**
+9. **Your LMS Authentication System is now up and running with the frontend and backend servers.**
 
 ## Usage
 
